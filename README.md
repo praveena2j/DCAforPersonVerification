@@ -3,11 +3,11 @@ In this work, we present Recursive fusion of Joint Cross-Attention across audio 
 ## References
 If you find this work useful in your research, please consider citing our work :pencil: and giving a star :star2: :
 ```bibtex
-@article{praveen2024audio,
-  title={Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention},
-  author={Praveen, R Gnana and Alam, Jahangir},
-  journal={arXiv preprint arXiv:2403.04654},
-  year={2024}
+@INPROCEEDINGS{10581998,
+  author={Praveen, R. Gnana and Alam, Jahangir},
+  booktitle={2024 IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG)}, 
+  title={Dynamic Cross Attention for Audio-Visual Person Verification}, 
+  year={2024},
 }
 ```
 
@@ -21,7 +21,7 @@ Create an environment using the `environment.yml` file
 ### Models and Text Files
 The pre-trained models of audio and visual backbones are obtained [here](https://drive.google.com/drive/folders/1bXyexxgspeOi6gFiP177pM-KhwSeVsTq?usp=sharing) 
 
-The fusion models trained using our fusion approach can be found [here](https://drive.google.com/file/d/1Xs0a9vImzsi8He1CKv3sAe1Q8z6_0WFU/view?usp=sharing)
+The fusion models trained using our fusion approach can be found [here]()
 
 The text files can be found [here](https://drive.google.com/drive/u/0/folders/1NJicFlj9CeNzxvtrOHRIHy6HnoTszro7)
 ```
